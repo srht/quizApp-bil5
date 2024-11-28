@@ -1,0 +1,852 @@
+[
+  {
+      "id": 1,
+      "question": "Dünyanın en büyük okyanusu hangisidir?",
+      "options": [
+          "Pasifik Okyanusu",
+          "Atlantik Okyanusu",
+          "Hint Okyanusu",
+          "Arktik Okyanusu"
+      ],
+      "answer": "Pasifik Okyanusu"
+  },
+  {
+      "id": 2,
+      "question": "Dünyanın en yüksek dağı hangisidir?",
+      "options": [
+          "Everest",
+          "K2",
+          "Kangchenjunga",
+          "Lhotse"
+      ],
+      "answer": "Everest"
+  },
+  {
+      "id": 3,
+      "question": "Dünyanın en uzun nehri hangisidir?",
+      "options": [
+          "Nil Nehri",
+          "Amazon Nehri",
+          "Yangtze Nehri",
+          "Mississippi Nehri"
+      ],
+      "answer": "Nil Nehri"
+  },
+  {
+      "id": 4,
+      "question": "Dünyanın en kalabalık ülkesi hangisidir?",
+      "options": [
+          "Çin",
+          "Hindistan",
+          "ABD",
+          "Endonezya"
+      ],
+      "answer": "Çin"
+  },
+  {
+      "id": 5,
+      "question": "Dünyanın en küçük ülkesi hangisidir?",
+      "options": [
+          "Vatikan",
+          "Monako",
+          "San Marino",
+          "Liechtenstein"
+      ],
+      "answer": "Vatikan"
+  },
+  {
+      "id": 6,
+      "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+      "options": [
+          "Mars",
+          "Venüs",
+          "Jüpiter",
+          "Merkür"
+      ],
+      "answer": "Mars"
+  },
+  {
+      "id": 7,
+      "question": "İnsan vücudunda en büyük organ hangisidir?",
+      "options": [
+          "Cilt",
+          "Karaciğer",
+          "Beyin",
+          "Kalp"
+      ],
+      "answer": "Cilt"
+  },
+  {
+      "id": 8,
+      "question": "Dünyanın en derin gölü hangisidir?",
+      "options": [
+          "Baykal Gölü",
+          "Hazar Denizi",
+          "Tanganika Gölü",
+          "Superior Gölü"
+      ],
+      "answer": "Baykal Gölü"
+  },
+  {
+      "id": 9,
+      "question": "Mona Lisa tablosunun ressamı kimdir?",
+      "options": [
+          "Leonardo da Vinci",
+          "Michelangelo",
+          "Van Gogh",
+          "Pablo Picasso"
+      ],
+      "answer": "Leonardo da Vinci"
+  },
+  {
+      "id": 10,
+      "question": "ABD'nin ilk başkanı kimdir?",
+      "options": [
+          "George Washington",
+          "Abraham Lincoln",
+          "Thomas Jefferson",
+          "John Adams"
+      ],
+      "answer": "George Washington"
+  },
+  {
+      "id": 11,
+      "question": "DNA'nın çift sarmal yapısını kim keşfetmiştir?",
+      "options": [
+          "Watson ve Crick",
+          "Darwin",
+          "Newton",
+          "Einstein"
+      ],
+      "answer": "Watson ve Crick"
+  },
+  {
+      "id": 12,
+      "question": "E=mc^2 formülü hangi bilim insanına aittir?",
+      "options": [
+          "Albert Einstein",
+          "Isaac Newton",
+          "Galileo Galilei",
+          "Nikola Tesla"
+      ],
+      "answer": "Albert Einstein"
+  },
+  {
+      "id": 13,
+      "question": "Avrupa Birliği'nin para birimi nedir?",
+      "options": [
+          "Euro",
+          "Pound",
+          "Dolar",
+          "Frank"
+      ],
+      "answer": "Euro"
+  },
+  {
+      "id": 14,
+      "question": "Fransa'nın başkenti neresidir?",
+      "options": [
+          "Paris",
+          "Lyon",
+          "Marsilya",
+          "Nice"
+      ],
+      "answer": "Paris"
+  },
+  {
+      "id": 15,
+      "question": "En fazla dilin konuşulduğu ülke hangisidir?",
+      "options": [
+          "Hindistan",
+          "Papua Yeni Gine",
+          "Endonezya",
+          "Çin"
+      ],
+      "answer": "Papua Yeni Gine"
+  },
+  {
+      "id": 16,
+      "question": "Güneş Sistemi'nde en büyük gezegen hangisidir?",
+      "options": [
+          "Jüpiter",
+          "Satürn",
+          "Uranüs",
+          "Neptün"
+      ],
+      "answer": "Jüpiter"
+  },
+  {
+      "id": 17,
+      "question": "Hangi elementin kimyasal sembolü 'O'dur?",
+      "options": [
+          "Oksijen",
+          "Altın",
+          "Demir",
+          "Azot"
+      ],
+      "answer": "Oksijen"
+  },
+  {
+      "id": 18,
+      "question": "İtalya'nın ünlü aktif yanardağı hangisidir?",
+      "options": [
+          "Vezüv",
+          "Etna",
+          "Stromboli",
+          "Mauna Loa"
+      ],
+      "answer": "Vezüv"
+  },
+  {
+      "id": 19,
+      "question": "Ay'da yürüyen ilk insan kimdir?",
+      "options": [
+          "Neil Armstrong",
+          "Buzz Aldrin",
+          "Yuri Gagarin",
+          "Michael Collins"
+      ],
+      "answer": "Neil Armstrong"
+  },
+  {
+      "id": 20,
+      "question": "Big Ben hangi şehirdedir?",
+      "options": [
+          "Londra",
+          "New York",
+          "Paris",
+          "Berlin"
+      ],
+      "answer": "Londra"
+  },
+  {
+    "id": 21,
+    "question": "Dünyanın en büyük okyanusu hangisidir?",
+    "options": ["Pasifik Okyanusu", "Atlantik Okyanusu", "Hint Okyanusu", "Arktik Okyanusu"],
+    "answer": "Pasifik Okyanusu"
+  },
+  {
+    "id": 22,
+    "question": "Dünyanın en yüksek dağı hangisidir?",
+    "options": ["Everest", "K2", "Kangchenjunga", "Lhotse"],
+    "answer": "Everest"
+  },
+  {
+    "id": 23,
+    "question": "Dünyanın en uzun nehri hangisidir?",
+    "options": ["Nil Nehri", "Amazon Nehri", "Yangtze Nehri", "Mississippi Nehri"],
+    "answer": "Nil Nehri"
+  },
+  {
+    "id": 24,
+    "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+    "options": ["Mars", "Venüs", "Jüpiter", "Merkür"],
+    "answer": "Mars"
+  },
+  {
+    "id": 25,
+    "question": "Mona Lisa tablosunun ressamı kimdir?",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Van Gogh", "Pablo Picasso"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 26,
+    "question": "Ay'da yürüyen ilk insan kimdir?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins"],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "id": 27,
+    "question": "İnsan vücudunda en büyük organ hangisidir?",
+    "options": ["Cilt", "Karaciğer", "Beyin", "Kalp"],
+    "answer": "Cilt"
+  },
+  {
+    "id": 28,
+    "question": "Big Ben hangi şehirdedir?",
+    "options": ["Londra", "New York", "Paris", "Berlin"],
+    "answer": "Londra"
+  },
+  {
+    "id": 29,
+    "question": "Hangi elementin kimyasal sembolü 'O'dur?",
+    "options": ["Oksijen", "Altın", "Demir", "Azot"],
+    "answer": "Oksijen"
+  },
+  {
+    "id": 30,
+    "question": "E=mc^2 formülü hangi bilim insanına aittir?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": 31,
+    "question": "Fransa'nın başkenti neresidir?",
+    "options": ["Paris", "Lyon", "Marsilya", "Nice"],
+    "answer": "Paris"
+  },
+  {
+    "id": 32,
+    "question": "Dünyanın en kalabalık ülkesi hangisidir?",
+    "options": ["Çin", "Hindistan", "ABD", "Endonezya"],
+    "answer": "Çin"
+  },
+  {
+    "id": 33,
+    "question": "Dünyanın en küçük ülkesi hangisidir?",
+    "options": ["Vatikan", "Monako", "San Marino", "Liechtenstein"],
+    "answer": "Vatikan"
+  },
+  {
+    "id": 34,
+    "question": "Güneş Sistemi'nde en büyük gezegen hangisidir?",
+    "options": ["Jüpiter", "Satürn", "Uranüs", "Neptün"],
+    "answer": "Jüpiter"
+  },
+  {
+    "id": 35,
+    "question": "İtalya'nın ünlü aktif yanardağı hangisidir?",
+    "options": ["Vezüv", "Etna", "Stromboli", "Mauna Loa"],
+    "answer": "Vezüv"
+  },
+  {
+    "id": 36,
+    "question": "ABD'nin ilk başkanı kimdir?",
+    "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+    "answer": "George Washington"
+  },
+  {
+    "id": 37,
+    "question": "En fazla dilin konuşulduğu ülke hangisidir?",
+    "options": ["Hindistan", "Papua Yeni Gine", "Endonezya", "Çin"],
+    "answer": "Papua Yeni Gine"
+  },
+  {
+    "id": 38,
+    "question": "Dünyanın en derin gölü hangisidir?",
+    "options": ["Baykal Gölü", "Hazar Denizi", "Tanganika Gölü", "Superior Gölü"],
+    "answer": "Baykal Gölü"
+  },
+  {
+    "id": 39,
+    "question": "DNA'nın çift sarmal yapısını kim keşfetmiştir?",
+    "options": ["Watson ve Crick", "Darwin", "Newton", "Einstein"],
+    "answer": "Watson ve Crick"
+  },
+  {
+    "id": 40,
+    "question": "Avrupa Birliği'nin para birimi nedir?",
+    "options": ["Euro", "Pound", "Dolar", "Frank"],
+    "answer": "Euro"
+  },
+  {
+    "id": 41,
+    "question": "Dünyanın en büyük çölü hangisidir?",
+    "options": ["Sahara", "Gobi", "Kalahari", "Atacama"],
+    "answer": "Sahara"
+  },
+  {
+    "id": 42,
+    "question": "En hızlı kara hayvanı hangisidir?",
+    "options": ["Cheetah", "Aslan", "Zebra", "Geyik"],
+    "answer": "Cheetah"
+  },
+  {
+    "id": 43,
+    "question": "Hangi elementin kimyasal sembolü 'Au'dur?",
+    "options": ["Altın", "Gümüş", "Demir", "Platin"],
+    "answer": "Altın"
+  },
+  {
+    "id": 44,
+    "question": "Hangi ülke en fazla adaya sahiptir?",
+    "options": ["İndonezya", "Finlandiya", "Hindistan", "İtalya"],
+    "answer": "İndonezya"
+  },
+  {
+    "id": 45,
+    "question": "Hangi gezegenin yüzeyinde dev fırtınalar vardır?",
+    "options": ["Neptün", "Jüpiter", "Venüs", "Mars"],
+    "answer": "Jüpiter"
+  },
+  {
+    "id": 46,
+    "question": "Hangi deniz dünyanın en tuzlu denizidir?",
+    "options": ["Ölü Deniz", "Akdeniz", "Kara Deniz", "Kızıldeniz"],
+    "answer": "Ölü Deniz"
+  },
+  {
+    "id": 47,
+    "question": "Avrupa'da en fazla nüfusa sahip ülke hangisidir?",
+    "options": ["Almanya", "Fransa", "İngiltere", "İtalya"],
+    "answer": "Almanya"
+  },
+  {
+    "id": 48,
+    "question": "Türk tarihinde ilk padişah kimdir?",
+    "options": ["Osman Gazi", "Alparslan", "Fatih Sultan Mehmet", "Kanuni Sultan Süleyman"],
+    "answer": "Osman Gazi"
+  },
+  {
+    "id": 49,
+    "question": "Hangi ülke dünyanın en büyük ada ülkesidir?",
+    "options": ["Avustralya", "Endonezya", "Kanada", "Filipinler"],
+    "answer": "Avustralya"
+  },
+  {
+    "id": 50,
+    "question": "Dünyadaki en eski medeniyetlerden biri olarak bilinen Sümerler hangi bölgedeki ilk büyük uygarlıklardır?",
+    "options": ["Mezopotamya", "Mısır", "Çin", "Yunanistan"],
+    "answer": "Mezopotamya"
+  },
+  {
+    "id": 51,
+    "question": "Mona Lisa tablosunun sergilendiği müze hangi şehirde yer almaktadır?",
+    "options": ["Paris", "Roma", "New York", "Londra"],
+    "answer": "Paris"
+  },
+  {
+    "id": 52,
+    "question": "Birleşmiş Milletler'in merkezi hangi şehirde bulunmaktadır?",
+    "options": ["New York", "Cenevre", "Paris", "Viyana"],
+    "answer": "New York"
+  },
+  {
+    "id": 53,
+    "question": "Türk bayrağının üzerindeki ay ve yıldız kaç rakamlıdır?",
+    "options": ["5", "7", "8", "9"],
+    "answer": "5"
+  },
+  {
+    "id": 54,
+    "question": "Süleymaniye Camii hangi şehirde yer almaktadır?",
+    "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+    "answer": "İstanbul"
+  },
+  {
+    "id": 55,
+    "question": "İstanbul Boğazı'nı geçen ilk köprü hangisidir?",
+    "options": ["15 Temmuz Şehitler Köprüsü", "Fatih Sultan Mehmet Köprüsü", "Yavuz Sultan Selim Köprüsü", "Bosphorus Köprüsü"],
+    "answer": "Fatih Sultan Mehmet Köprüsü"
+  },
+  {
+    "id": 56,
+    "question": "Hangi ülke 2020 Tokyo Olimpiyatları'nda en fazla madalya kazanan ülke olmuştur?",
+    "options": ["ABD", "Çin", "Japonya", "Rusya"],
+    "answer": "ABD"
+  },
+  {
+    "id": 57,
+    "question": "Hangi gezegenin halkaları en belirgin şekilde görünür?",
+    "options": ["Satürn", "Jüpiter", "Venüs", "Neptün"],
+    "answer": "Satürn"
+  },
+  {
+    "id": 58,
+    "question": "Hangi ünlü bilim insanı yerçekimi kanununu keşfetmiştir?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": 59,
+    "question": "Hangi renk karışımı beyazı oluşturur?",
+    "options": ["Tüm renkler", "Kırmızı ve Mavi", "Yeşil ve Sarı", "Sarı ve Mavi"],
+    "answer": "Tüm renkler"
+  },
+  {
+    "id": 60,
+    "question": "Hangi ünlü ressam 'Yıldızlı Gece' adlı tablosunu yapmıştır?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Leonardo da Vinci"],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": 61,
+    "question": "Dünyanın en yüksek dağı hangisidir?",
+    "options": ["Everest", "K2", "Kangchenjunga", "Makalu"],
+    "answer": "Everest"
+  },
+  {
+    "id": 62,
+    "question": "Hangisi en büyük okyanustur?",
+    "options": ["Pasifik Okyanusu", "Atlantik Okyanusu", "Hint Okyanusu", "Arktik Okyanusu"],
+    "answer": "Pasifik Okyanusu"
+  },
+  {
+    "id": 63,
+    "question": "Birleşmiş Milletler'in resmi dil sayısı kaçtır?",
+    "options": ["4", "6", "8", "10"],
+    "answer": "6"
+  },
+  {
+    "id": 64,
+    "question": "Dünyadaki en büyük canlı nedir?",
+    "options": ["Mavi balina", "Afrika fili", "Beyaz köpekbalığı", "Dev ağaç"],
+    "answer": "Mavi balina"
+  },
+  {
+    "id": 65,
+    "question": "Hangi ülke 2022 FIFA Dünya Kupası'nı kazandı?",
+    "options": ["Arjantin", "Fransa", "Brezilya", "Almanya"],
+    "answer": "Arjantin"
+  },
+  {
+    "id": 66,
+    "question": "Süleyman Demirel hangi yıllar arasında Türkiye Cumhuriyeti Cumhurbaşkanı olmuştur?",
+    "options": ["1993-2000", "1990-1993", "1995-2005", "2000-2007"],
+    "answer": "1993-2000"
+  },
+  {
+    "id": 67,
+    "question": "Hangi gezegen güneş sistemindeki en büyük gezegendir?",
+    "options": ["Jüpiter", "Satürn", "Neptün", "Uranüs"],
+    "answer": "Jüpiter"
+  },
+  {
+    "id": 68,
+    "question": "En uzun süre tahtta kalan İngiltere Kraliçesi kimdir?",
+    "options": ["Kraliçe II. Elizabeth", "Kraliçe Victoria", "Kraliçe I. Elizabeth", "Kraliçe Anne"],
+    "answer": "Kraliçe II. Elizabeth"
+  },
+  {
+    "id": 69,
+    "question": "Güneş sistemi dışında yaşam barındırabileceği düşünülen en yakın gezegen hangisidir?",
+    "options": ["Proxima Centauri b", "Mars", "Venüs", "Europa"],
+    "answer": "Proxima Centauri b"
+  },
+  {
+    "id": 70,
+    "question": "Tarihteki ilk Nobel Barış Ödülü'nü kazanan kişi kimdir?",
+    "options": ["Henri Dunant", "Albert Einstein", "Martin Luther King", "Malala Yousafzai"],
+    "answer": "Henri Dunant"
+  },
+  {
+    "id": 71,
+    "question": "Birleşmiş Milletler'in merkezi hangi şehirde yer almaktadır?",
+    "options": ["New York", "Paris", "Londra", "Cenevre"],
+    "answer": "New York"
+  },
+  {
+    "id": 72,
+    "question": "Mısır Piramitleri'nin en büyüğü olan piramit kimin mezarıdır?",
+    "options": ["Keops", "Kefren", "Mikerinos", "Tutankhamun"],
+    "answer": "Keops"
+  },
+  {
+    "id": 73,
+    "question": "İstanbul Boğazı'nı geçen ilk köprü hangi yıl yapılmıştır?",
+    "options": ["1973", "1985", "1965", "1995"],
+    "answer": "1973"
+  },
+  {
+    "id": 74,
+    "question": "Hangi ülkenin bayrağı kırmızı bir arka plan üzerinde beyaz bir haç içerir?",
+    "options": ["İsveç", "İsviçre", "Danimarka", "Norveç"],
+    "answer": "İsviçre"
+  },
+  {
+    "id": 75,
+    "question": "Türk mutfağının en meşhur tatlılarından olan baklava hangi ülkeye aittir?",
+    "options": ["Türkiye", "Yunanistan", "Azerbaycan", "Suriye"],
+    "answer": "Türkiye"
+  },
+  {
+    "id": 76,
+    "question": "Hangi organ vücudumuzdaki oksijeni taşır?",
+    "options": ["Kalp", "Karaciğer", "Beyin", "Akciğerler"],
+    "answer": "Akciğerler"
+  },
+  {
+    "id": 77,
+    "question": "İlk Türk devletini kuran Türk boyu hangisidir?",
+    "options": ["Göktürkler", "Hunlar", "Selçuklular", "Osmanlılar"],
+    "answer": "Göktürkler"
+  },
+  {
+    "id": 78,
+    "question": "Hangi ünlü gezegenin yüzeyi metanla kaplıdır?",
+    "options": ["Venüs", "Satürn", "Neptün", "Uranüs"],
+    "answer": "Uranüs"
+  },
+  {
+    "id": 79,
+    "question": "Hangi ülke 2020 Olimpiyatları'nda ev sahipliği yapmıştır?",
+    "options": ["Japonya", "Brezilya", "Rusya", "Çin"],
+    "answer": "Japonya"
+  },
+  {
+    "id": 80,
+    "question": "Leonardo da Vinci'nin en ünlü eserlerinden biri olan 'Son Akşam Yemeği' tablosu hangi şehirde bulunmaktadır?",
+    "options": ["Roma", "Viyana", "Paris", "Milano"],
+    "answer": "Milano"
+  },
+  {
+    "id": 81,
+    "question": "Hangisi dünyanın en büyük adasıdır?",
+    "options": ["Grönland", "Yeni Gine", "Borneo", "Madagaskar"],
+    "answer": "Grönland"
+  },
+  {
+    "id": 82,
+    "question": "Hangi Türk hükümdarı Osmanlı Devleti'ni kurmuştur?",
+    "options": ["Osman Gazi", "Fatih Sultan Mehmet", "Yavuz Sultan Selim", "Kanuni Sultan Süleyman"],
+    "answer": "Osman Gazi"
+  },
+  {
+    "id": 83,
+    "question": "Dünyanın en eski sürekli kullanılan başkenti hangi şehirdir?",
+    "options": ["Atina", "Roma", "İstanbul", "Londra"],
+    "answer": "Atina"
+  },
+  {
+    "id": 84,
+    "question": "Türkiye Cumhuriyeti'nin ilk başbakanı kimdir?",
+    "options": ["Mustafa Kemal Atatürk", "İsmet İnönü", "Fevzi Çakmak", "Rauf Orbay"],
+    "answer": "İsmet İnönü"
+  },
+  {
+    "id": 85,
+    "question": "Yunanistan'ın başkenti hangi şehirdir?",
+    "options": ["Atina", "Selanik", "Mikonos", "Girit"],
+    "answer": "Atina"
+  },
+  {
+    "id": 86,
+    "question": "Türk tarihinde 'Kurtuluş Savaşı' hangi yıllar arasında yapılmıştır?",
+    "options": ["1919-1922", "1920-1923", "1914-1918", "1925-1927"],
+    "answer": "1919-1922"
+  },
+  {
+    "id": 87,
+    "question": "Hangisi Türkiye Cumhuriyeti'nin ilk kadın başbakanıdır?",
+    "options": ["Tansu Çiller", "Meral Akşener", "Süleyman Demirel", "Halide Edib Adıvar"],
+    "answer": "Tansu Çiller"
+  },
+  {
+    "id": 88,
+    "question": "Türk edebiyatının önemli şairlerinden olan 'İstiklal Marşı' şairi kimdir?",
+    "options": ["Mehmet Akif Ersoy", "Necip Fazıl Kısakürek", "Nazım Hikmet", "Cevat Şakir Kabaağaçlı"],
+    "answer": "Mehmet Akif Ersoy"
+  },
+  {
+    "id": 89,
+    "question": "Türkiye'nin en büyük gölü hangisidir?",
+    "options": ["Van Gölü", "Tuz Gölü", "Beyşehir Gölü", "Kızılırmak"],
+    "answer": "Van Gölü"
+  },
+  {
+    "id": 90,
+    "question": "Türkiye'de en fazla konuşulan ikinci dil hangisidir?",
+    "options": ["Kürtçe", "Arapça", "Zazaca", "Lazca"],
+    "answer": "Kürtçe"
+  },
+  {
+    "id": 91,
+    "question": "Tarihte 'Moğol İmparatorluğu'nu kuran lider kimdir?",
+    "options": ["Cengiz Han", "Timur", "Kubilay Han", "Şah Cihan"],
+    "answer": "Cengiz Han"
+  },
+  {
+    "id": 92,
+    "question": "Dünyanın en büyük çölü hangisidir?",
+    "options": ["Sahara", "Gobi", "Karakum", "Arabistan Çölü"],
+    "answer": "Sahara"
+  },
+  {
+    "id": 93,
+    "question": "Hangi devletin bayrağında hilal ve yıldız bulunur?",
+    "options": ["Türkiye", "Pakistan", "Tunus", "Endonezya"],
+    "answer": "Türkiye"
+  },
+  {
+    "id": 94,
+    "question": "İstanbul Boğazı'nı geçmek için kullanılan köprülerden hangisi ilk olarak yapılmıştır?",
+    "options": ["15 Temmuz Şehitler Köprüsü", "Fatih Sultan Mehmet Köprüsü", "Yavuz Sultan Selim Köprüsü", "Osman Gazi Köprüsü"],
+    "answer": "15 Temmuz Şehitler Köprüsü"
+  },
+  {
+    "id": 95,
+    "question": "Milyonlarca yıl önce yeryüzünde yaşamış olan dev sürüngenler hangi ismi alır?",
+    "options": ["Dinozor", "T-Rex", "Pterodaktil", "İguanodon"],
+    "answer": "Dinozor"
+  },
+  {
+    "id": 96,
+    "question": "Atatürk'ün en yakın silah arkadaşlarından biri olan, Türkiye Cumhuriyeti'nin ilk Genelkurmay Başkanı kimdir?",
+    "options": ["Fevzi Çakmak", "Kazım Karabekir", "İsmet İnönü", "Rauf Orbay"],
+    "answer": "Fevzi Çakmak"
+  },
+  {
+    "id": 97,
+    "question": "Hangi ünlü gezegenin atmosferinde kalıcı olarak fırtınalar görülür?",
+    "options": ["Mars", "Venüs", "Jüpiter", "Satürn"],
+    "answer": "Jüpiter"
+  },
+  {
+    "id": 98,
+    "question": "İlk Türk devletinin kurucusu kimdir?",
+    "options": ["Alp Er Tunga", "Bumin Kağan", "Köktürk Kağanı", "Osman Gazi"],
+    "answer": "Bumin Kağan"
+  },
+  {
+    "id": 99,
+    "question": "Hangisi ünlü Fransız ressam Claude Monet'nin eserlerinden birisidir?",
+    "options": ["Su Lili", "Geceyi Aydınlatan Ay", "Yıldızlı Gece", "Mavi Dalga"],
+    "answer": "Su Lili"
+  },
+  {
+    "id": 100,
+    "question": "Hangi ülke Atlas Okyanusu'nun doğu kıyısında yer alır?",
+    "options": ["Brezilya", "İspanya", "Portekiz", "Fransa"],
+    "answer": "Brezilya"
+  },
+  {
+    "id": 101,
+    "question": "Dünyanın en büyük adası hangisidir?",
+    "options": ["Grönland", "Borneo", "Yeni Gine", "Madagaskar"],
+    "answer": "Grönland"
+  },
+  {
+    "id": 102,
+    "question": "Hangi ülke dünyanın en büyük peyniri üreticisidir?",
+    "options": ["Fransa", "Hollanda", "İtalya", "Almanya"],
+    "answer": "Fransa"
+  },
+  {
+    "id": 103,
+    "question": "Dünyanın en uzun nehri hangisidir?",
+    "options": ["Nil Nehri", "Amazon Nehri", "Yangtze Nehri", "Mississippi Nehri"],
+    "answer": "Nil Nehri"
+  },
+  {
+    "id": 104,
+    "question": "Hangi ülke dünyanın en fazla orman alanına sahiptir?",
+    "options": ["Brezilya", "Kanada", "Rusya", "Amerika Birleşik Devletleri"],
+    "answer": "Rusya"
+  },
+  {
+    "id": 105,
+    "question": "Dünyadaki en büyük çöl olan Sahara Çölü hangi kıtada yer almaktadır?",
+    "options": ["Afrika", "Asya", "Avustralya", "Kuzey Amerika"],
+    "answer": "Afrika"
+  },
+  {
+    "id": 106,
+    "question": "Türkiye'nin en uzun nehri hangisidir?",
+    "options": ["Fırat Nehri", "Dicle Nehri", "Kızılırmak", "Sakarya Nehri"],
+    "answer": "Kızılırmak"
+  },
+  {
+    "id": 107,
+    "question": "Hangi ülke, dünyanın en kalabalık nüfusuna sahip ülkedir?",
+    "options": ["Hindistan", "Çin", "Amerika Birleşik Devletleri", "Endonezya"],
+    "answer": "Çin"
+  },
+  {
+    "id": 108,
+    "question": "Hangi gezegen güneş sistemi içinde en büyük gezegendir?",
+    "options": ["Jüpiter", "Satürn", "Mars", "Venüs"],
+    "answer": "Jüpiter"
+  },
+  {
+    "id": 109,
+    "question": "Tarihteki ilk kadın hükümdar kimdir?",
+    "options": ["Cleopatra", "İsmail'in Kızı", "Puduhepa", "Hatşepsut"],
+    "answer": "Hatşepsut"
+  },
+  {
+    "id": 110,
+    "question": "Süleyman Demirel'in 9. Cumhurbaşkanı olduğu yıl hangisidir?",
+    "options": ["1993", "1999", "2007", "1995"],
+    "answer": "1993"
+  },
+  {
+    "id": 111,
+    "question": "Türkiye'nin bağımsızlık mücadelesini veren Kurtuluş Savaşı'nın komutanı kimdir?",
+    "options": ["İsmet İnönü", "Mustafa Kemal Atatürk", "Fevzi Çakmak", "Kazım Karabekir"],
+    "answer": "Mustafa Kemal Atatürk"
+  },
+  {
+    "id": 112,
+    "question": "Hangi yazar, 'Kırmızı Saçlı Kadın' romanının yazarıdır?",
+    "options": ["Orhan Pamuk", "Yaşar Kemal", "Elif Şafak", "Oruç Aruoba"],
+    "answer": "Orhan Pamuk"
+  },
+  {
+    "id": 113,
+    "question": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+    "options": ["İsmet İnönü", "Mustafa Kemal Atatürk", "Fevzi Çakmak", "Kazım Karabekir"],
+    "answer": "Mustafa Kemal Atatürk"
+  },
+  {
+    "id": 114,
+    "question": "Hangi gezegenin yüzeyi en sıcak gezegen olarak kabul edilir?",
+    "options": ["Venüs", "Mars", "Jüpiter", "Merkür"],
+    "answer": "Venüs"
+  },
+  {
+    "id": 115,
+    "question": "Fransa'nın başkenti hangi şehirdir?",
+    "options": ["Lyon", "Paris", "Marsilya", "Nice"],
+    "answer": "Paris"
+  },
+  {
+    "id": 116,
+    "question": "Dünyanın en yüksek dağı hangisidir?",
+    "options": ["Ağrı Dağı", "Everest", "Uludağ", "Karakol Dağı"],
+    "answer": "Everest"
+  },
+  {
+    "id": 117,
+    "question": "Tarihte hangi Türk hükümdarı, Anadolu'yu fethetmeye başlamıştır?",
+    "options": ["Fatih Sultan Mehmet", "Alparslan", "Osman Gazi", "Selçuk Bey"],
+    "answer": "Alparslan"
+  },
+  {
+    "id": 118,
+    "question": "Hangisi Türk halkının geleneksel giysilerinden biri değildir?",
+    "options": ["Kaftan", "Fistan", "Şalvar", "Smoking"],
+    "answer": "Smoking"
+  },
+  {
+    "id": 119,
+    "question": "Osmanlı İmparatorluğu'nun son padişahı kimdir?",
+    "options": ["Sultan Vahdettin", "Sultan Abdülhamid", "Sultan Mehmet Reşat", "Sultan Murad IV"],
+    "answer": "Sultan Vahdettin"
+  },
+  {
+    "id": 120,
+    "question": "Hangi gezegen, 'Kırmızı Gezegen' olarak bilinir?",
+    "options": ["Mars", "Venüs", "Jüpiter", "Satürn"],
+    "answer": "Mars"
+  },
+  {
+    "id": 121,
+    "question": "Dünyanın en büyük okyanusu hangisidir?",
+    "options": ["Pasifik Okyanusu", "Atlantik Okyanusu", "Hindistan Okyanusu", "Arktik Okyanusu"],
+    "answer": "Pasifik Okyanusu"
+  },
+  {
+    "id": 122,
+    "question": "Mevlana Celaleddin Rumi'nin memleketi hangi ülkededir?",
+    "options": ["Türkistan", "İran", "Afganistan", "Türkiye"],
+    "answer": "Afganistan"
+  },
+  {
+    "id": 123,
+    "question": "Çanakkale Zaferi hangi tarihte kazanılmıştır?",
+    "options": ["18 Mart 1915", "23 Nisan 1919", "29 Ekim 1923", "19 Mayıs 1919"],
+    "answer": "18 Mart 1915"
+  },
+  {
+    "id": 124,
+    "question": "İstanbul Boğazı'nı geçmek için kullanılan ikinci köprü hangisidir?",
+    "options": ["Fatih Sultan Mehmet Köprüsü", "15 Temmuz Şehitler Köprüsü", "Yavuz Sultan Selim Köprüsü", "Osman Gazi Köprüsü"],
+    "answer": "Fatih Sultan Mehmet Köprüsü"
+  },
+  {
+    "id": 125,
+    "question": "Hangisi Türk mutfağının ünlü bir tatlısıdır?",
+    "options": ["Baklava", "Pizza", "Sushi", "Pasta"],
+    "answer": "Baklava"
+  }
+]
