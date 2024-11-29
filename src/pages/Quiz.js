@@ -46,17 +46,6 @@ function Quiz() {
     newQuestion.firstPart = qsParts[0];
     newQuestion.wordPart = _targetWord;
     newQuestion.lastPart = qsParts[1];
-  } else {
-    qsParts = currentQuestion.question.split(" ");
-    _targetWord = qsParts[qsParts.length - 1];
-    let questionSentence = "";
-    for (let index = 0; index < qsParts.length - 1; index++) {
-      const word = qsParts[index];
-      questionSentence += word + " ";
-    }
-
-    newQuestion.firstPart = questionSentence;
-    newQuestion.wordPart = _targetWord;
   }
 
   // Eğer sorular yüklenmediyse loading göster

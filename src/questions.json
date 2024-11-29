@@ -2,150 +2,175 @@
   {
     "id": 203,
     "question": "This painting is truly mesmerizing.",
+    "target_word": "mesmerizing",
     "options": ["fascinating", "boring", "ugly", "ordinary"],
     "answer": "fascinating"
   },
   {
     "id": 204,
     "question": "The atmosphere at the party was very vibrant.",
+    "target_word": "vibrant",
     "options": ["lively", "dull", "calm", "boring"],
     "answer": "lively"
   },
   {
     "id": 205,
     "question": "The teacher gave a concise explanation of the topic.",
+    "target_word": "concise",
     "options": ["brief", "lengthy", "confusing", "irrelevant"],
     "answer": "brief"
   },
   {
     "id": 206,
     "question": "The movie's plot was very predictable.",
+    "target_word": "predictable",
     "options": ["expected", "surprising", "confusing", "exciting"],
     "answer": "expected"
   },
   {
     "id": 207,
     "question": "Her response was quite spontaneous.",
+    "target_word": "spontaneous",
     "options": ["unplanned", "deliberate", "calculated", "forced"],
     "answer": "unplanned"
   },
   {
     "id": 208,
     "question": "The room was filled with a soothing aroma.",
+    "target_word": "soothing",
     "options": ["calming", "irritating", "strong", "unpleasant"],
     "answer": "calming"
   },
   {
     "id": 209,
     "question": "Her speech was incredibly inspiring.",
+    "target_word": "inspiring",
     "options": ["motivating", "discouraging", "boring", "irrelevant"],
     "answer": "motivating"
   },
   {
     "id": 210,
     "question": "The view from the mountain was breathtaking.",
+    "target_word": "breathtaking",
     "options": ["stunning", "average", "ordinary", "dull"],
     "answer": "stunning"
   },
   {
     "id": 211,
     "question": "The old house has a very eerie feeling at night.",
+    "target_word": "eerie",
     "options": ["creepy", "comfortable", "bright", "welcoming"],
     "answer": "creepy"
   },
   {
     "id": 212,
     "question": "He gave an elaborate explanation of his plan.",
+    "target_word": "elaborate",
     "options": ["detailed", "simple", "unclear", "brief"],
     "answer": "detailed"
   },
   {
     "id": 213,
     "question": "The problem turned out to be trivial.",
+    "target_word": "trivial",
     "options": ["insignificant", "important", "challenging", "complex"],
     "answer": "insignificant"
   },
   {
     "id": 214,
     "question": "She was reluctant to share her ideas.",
+    "target_word": "reluctant",
     "options": ["hesitant", "eager", "excited", "willing"],
     "answer": "hesitant"
   },
   {
     "id": 215,
     "question": "His decision was purely rational.",
+    "target_word": "rational",
     "options": ["logical", "emotional", "random", "impulsive"],
     "answer": "logical"
   },
   {
     "id": 216,
     "question": "The new policy is highly controversial.",
+    "target_word": "controversial",
     "options": ["debatable", "accepted", "ignored", "unpopular"],
     "answer": "debatable"
   },
   {
     "id": 217,
     "question": "Her handwriting is exceptionally neat.",
+    "target_word": "neat",
     "options": ["tidy", "messy", "average", "rough"],
     "answer": "tidy"
   },
   {
     "id": 218,
     "question": "The sunset was absolutely magnificent.",
+    "target_word": "magnificent",
     "options": ["splendid", "ordinary", "boring", "small"],
     "answer": "splendid"
   },
   {
     "id": 219,
     "question": "The story was entirely fictitious.",
+    "target_word": "fictitious",
     "options": ["imaginary", "true", "real", "historical"],
     "answer": "imaginary"
   },
   {
     "id": 220,
     "question": "Her behavior was utterly outrageous.",
+    "target_word": "outrageous",
     "options": ["shocking", "acceptable", "calm", "expected"],
     "answer": "shocking"
   },
   {
     "id": 221,
     "question": "The instructions were very ambiguous.",
+    "target_word": "ambiguous",
     "options": ["unclear", "straightforward", "simple", "detailed"],
     "answer": "unclear"
   },
   {
     "id": 222,
     "question": "He is known for his exceptional skills.",
+    "target_word": "exceptional",
     "options": ["outstanding", "average", "mediocre", "unskilled"],
     "answer": "outstanding"
   },
   {
     "id": 223,
     "question": "The situation is extremely chaotic.",
+    "target_word": "chaotic",
     "options": ["disorganized", "orderly", "calm", "controlled"],
     "answer": "disorganized"
   },
   {
     "id": 224,
     "question": "The dessert was absolutely delicious.",
+    "target_word": "delicious",
     "options": ["tasty", "bland", "unpleasant", "bad"],
     "answer": "tasty"
   },
   {
     "id": 225,
     "question": "The audience found the performance captivating.",
+    "target_word": "captivating",
     "options": ["engaging", "boring", "confusing", "awkward"],
     "answer": "engaging"
   },
   {
     "id": 226,
     "question": "The climate in this region is mild.",
+    "target_word": "mild",
     "options": ["moderate", "extreme", "hot", "freezing"],
     "answer": "moderate"
   },
   {
     "id": 227,
     "question": "Her voice was calm and soothing.",
+    "target_word": "soothing",
     "options": ["relaxing", "irritating", "loud", "harsh"],
     "answer": "relaxing"
   },
