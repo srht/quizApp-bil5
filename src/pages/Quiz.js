@@ -11,12 +11,8 @@ import CountUp from "../components/CountUp";
 import ResultModal from "../components/ResultModal";
 function Quiz() {
   const dispatch = useDispatch();
-  const {
-    currentQuestionIndex,
-    selectedAnswer,
-    questions,
-    answerHistory,
-  } = useSelector((state) => state.quiz);
+  const { currentQuestionIndex, selectedAnswer, questions, answerHistory } =
+    useSelector((state) => state.quiz);
 
   useEffect(() => {
     dispatch(initializeFromLocalStorage());
@@ -33,8 +29,35 @@ function Quiz() {
   };
 
   // Son soruyu göstermek için index kontrolü
-  const displayQuestionIndex = Math.min(currentQuestionIndex, questions.length - 1);
+  const displayQuestionIndex = Math.min(
+    currentQuestionIndex,
+    questions.length - 1
+  );
   const currentQuestion = questions?.[displayQuestionIndex];
+  let _targetWord = currentQuestion.target_word;
+  let qsParts = [];
+  let newQuestion = {
+    firstPart: "",
+    wordPart: "",
+    lastPart: "",
+  };
+  if (_targetWord) {
+    qsParts = currentQuestion.question.split(_targetWord);
+    newQuestion.firstPart = qsParts[0];
+    newQuestion.wordPart = _targetWord;
+    newQuestion.lastPart = qsParts[1];
+  } else {
+    qsParts = currentQuestion.question.split(" ");
+    _targetWord = qsParts[qsParts.length - 1];
+    let questionSentence = "";
+    for (let index = 0; index < qsParts.length - 1; index++) {
+      const word = qsParts[index];
+      questionSentence += word + " ";
+    }
+
+    newQuestion.firstPart = questionSentence;
+    newQuestion.wordPart = _targetWord;
+  }
 
   // Eğer sorular yüklenmediyse loading göster
   if (!questions?.length) {
@@ -56,7 +79,7 @@ function Quiz() {
         }}
       >
         <h1 className="text-2xl font-black tracking-tight">
-          bil<span className="text-emerald-500">5</span>
+          lang<span className="text-emerald-500">5</span>
         </h1>
       </motion.div>
 
@@ -83,9 +106,11 @@ function Quiz() {
             transition={{ duration: 0.1 }}
             className="min-h-[120px] border-b flex items-center justify-center p-5"
           >
-            <h3 className="font-poppins font-semibold text-xl max-w-[700px] text-center">
-              {currentQuestion?.question}
-            </h3>
+            <h4 className="font-poppins font-semibold text-xl max-w-[700px] text-center">
+              {newQuestion.firstPart}
+              <span style={{ fontWeight: "900" }}>{newQuestion.wordPart}</span>
+              {newQuestion.lastPart}
+            </h4>
           </motion.div>
 
           {/* Cevap şıkları */}
